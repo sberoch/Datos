@@ -1,5 +1,4 @@
-# Datos
-Trabajos Practicos para Organizacion de Datos
+# Trabajos Practicos para Organizacion de Datos
 
 El objetivo del primer TP es realizar un análisis exploratorio del set de datos del TP. Queremos ver qué cosas podemos descubrir sobre los datos que puedan resultar interesantes. Los requisitos de la primera entrega son los siguientes:
 
